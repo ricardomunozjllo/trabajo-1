@@ -1,0 +1,4 @@
+Este programa sirve para ejecutar algunas operaciones matriciales usando clases y objetos.
+Para ejecutar el programa debes tener SO Windows xp o superior
+Descargar de https://sourceforge.net/projects/orwelldevcpp/ el instalador del IDE Dev-C++ e instalar en su pc
+Abrir con Dev-C++ el archivo "programas matrices.cpp", compilar y ejecutar (f11)
